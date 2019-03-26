@@ -1,4 +1,4 @@
 class Person
-  adele_goldberg = Person
-  alan_kay = Person
+  adele_goldberg = person
+  alan_kay = person
 end
